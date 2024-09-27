@@ -23,9 +23,9 @@ This paper presents a dataset capturing human-robot interactions (HRI) in urban 
 ### Samples
 <p align="center">
 <!-- <img src="./Images/demo_with_caption.gif" width="400"/> -->
-<img src="./Images/kiss.gif" width="300"/>
-<img src="./Images/10-12-clip19_1.gif" width="300"/>
-<img src="./Images/middle_finger.gif" width="300"/>
+<img src="./Images/kiss.gif" width="250"/>
+<img src="./Images/10-12-clip19_1.gif" width="250"/>
+<img src="./Images/middle_finger.gif" width="250"/>
 </p>
 
 ### Recording Devices
