@@ -11,6 +11,7 @@ This paper presents a dataset capturing human-robot interactions (HRI) in urban 
 </p>
 
 ***Data Format:*** 360 video and audio recorded from the robots' perspective
+
 ***Deployment Location:***
 - [Astor Place](https://www.nyc.gov/site/cecm/permitting/astor-place-plaza.page)  (Manhattan, New York City)
   - The robots were deployed at Astor Place in the summer of 2022. The deployment occurred over five days, with each session lasting from one to two hours in the early afternoon.
